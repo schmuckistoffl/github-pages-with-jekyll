@@ -1,3 +1,8 @@
+---
+title: "My passion"
+date: 2020-09-29
+---
+
 # My Passion - Bouldering #
 
 Bouldering is my biggest passion and love (ok....besides my new passion of welding which I discovered recently).
